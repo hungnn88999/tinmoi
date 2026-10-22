@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#4568dc"/><stop offset="1" stop-color="#b06ab3"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<circle cx="1010" cy="115" r="150" fill="rgba(255,255,255,.12)"/>
+<circle cx="170" cy="590" r="230" fill="rgba(255,255,255,.08)"/>
+<text x="70" y="315" fill="white" font-family="Arial" font-size="54" font-weight="700">Thế giới</text>
+<text x="72" y="375" fill="white" font-family="Arial" font-size="28">Tin tức quốc tế nổi bật</text>
+</svg>
